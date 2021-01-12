@@ -1,0 +1,21 @@
+.custom-card{
+    border: none;
+}
+
+.custom-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.custom-slider{
+    background-color: #fceae8;
+    border-radius: .75em;
+}
+
+.custom-subscribe{
+    background-color: #fceae8;
+}
